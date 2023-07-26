@@ -1,0 +1,25 @@
+body {
+    background-color: cornsilk;
+}
+h1,
+p{
+    text-align: center;
+font-family: 'Courier New', Courier, monospace;
+}
+.croissant-photo {
+    max-width: 80%;
+    border-radius: 10px;
+    display: block;
+    margin: 30px auto;
+  }
+  footer {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+  }
+footer a{
+    margin: 0 10px;
+    color: black;
+    font-size: medium;
+    font-weight: bold;
+  }
+  
